@@ -7,5 +7,5 @@
 
 ![Shruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=shruti0419&show_icons=true&theme=merko)
 
-[![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shruti0419&layout=compact)](https://github.com/shruti0419/github-readme-stats)
+
 
