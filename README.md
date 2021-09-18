@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on HTML, CSS, BOOTSTRAP, JS and Reactjs
+- 🔭 I’m currently working on HTML, CSS, BOOTSTRAP, JS & Reactjs
 - 🌱 I’m currently learning Reactjs, Nextjs, Data Strutures and Algorithms
 - 👯 I’m looking to collaborate on Web Development projects
 - 📫 How to reach me: shrutimohanty2019@gmail.com
