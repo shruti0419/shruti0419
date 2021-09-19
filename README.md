@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 - 🔭 I’m currently working on HTML, CSS, BOOTSTRAP, JS & Reactjs
 - 🌱 I’m currently learning Reactjs, Nextjs, Data Strutures and Algorithms
