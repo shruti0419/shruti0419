@@ -1,4 +1,5 @@
-### Hello people! Shruti this side!! 👋
+### Hello people! Shruti this side!! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! 
+
 
 - 🔭 I’m currently working on HTML, CSS, BOOTSTRAP, JS & Reactjs
 - 🌱 I’m currently learning Reactjs, Nextjs, Data Strutures and Algorithms
