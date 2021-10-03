@@ -13,8 +13,6 @@
 
 - 📫 How to reach me: shrutimohanty2019@gmail.com 
 
-- 🤝 I’m looking for help with ReactJs and PHP
-
 <p align="center">
 <a href="https://github.com/shruti0419">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=shruti0419&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
