@@ -1,5 +1,6 @@
 ### Hello people! Shruti this side!! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! 
 
+<img align="right" src="https://media.istockphoto.com/vectors/working-at-home-vector-flat-style-illustration-online-career-space-vector-id1241710244?k=20&m=1241710244&s=612x612&w=0&h=RqGpgs6pK0cC7C-P70rgtf0iPFaQLTfa0X3eNJiYRCs=" width="500" height="400">
 
 - 🔭 I’m currently working on HTML, CSS, BOOTSTRAP, JS & Reactjs
 - 🌱 I’m currently learning Reactjs, Nextjs, Data Strutures and Algorithms
