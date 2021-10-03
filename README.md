@@ -3,8 +3,11 @@
 <img align="right" src="https://media.istockphoto.com/vectors/working-at-home-vector-flat-style-illustration-online-career-space-vector-id1241710244?k=20&m=1241710244&s=612x612&w=0&h=RqGpgs6pK0cC7C-P70rgtf0iPFaQLTfa0X3eNJiYRCs=" width="500" height="300">
 
 - 🔭 I’m currently working on HTML, CSS, BOOTSTRAP, JS & Reactjs
+
 - 🌱 I’m currently learning Reactjs, Nextjs, Data Strutures and Algorithms
+
 - 👯 I’m looking to collaborate on Web Development projects
+
 - 📫 How to reach me: shrutimohanty2019@gmail.com 
 
 <p align="center">
