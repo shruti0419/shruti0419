@@ -1,4 +1,4 @@
-<p align ="center">![Header](header.png)</p>
+![Header](header.png)
 
 <h2 align="center"> Hello people! Shruti this side!! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h2>
 
