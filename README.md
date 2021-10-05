@@ -1,4 +1,6 @@
-![Header](header.png)
+<p align="center">
+  <img src="./header.png">
+  </p>
 
 <h2 align="center"> Hello people! Shruti this side!! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h2>
 
