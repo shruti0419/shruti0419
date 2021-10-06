@@ -9,7 +9,7 @@
 
 - 👩‍🎓 I'm a third year engineering undergrad at College of Engineering and Technology, Bhubaneswar
 
-- 🔭 I’m currently working on HTML, CSS, BOOTSTRAP, JS & Reactjs
+- 🔭 I’m currently working on HTML, CSS, BOOTSTRAP, JS and Reactjs
 
 - 🌱 I’m currently learning ReactJs, Nextjs, Data Strutures and Algorithms
 
