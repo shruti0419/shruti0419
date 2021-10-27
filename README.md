@@ -13,7 +13,7 @@
 
 - 📝 I’m currently learning ReactJs, Nextjs, Data Strutures and Algorithms using Java
 
-- 👯 I’m looking to collaborate on Web Development projects.
+- 👯 I’m looking to collaborate on Web Dev projects.
 
 - 📫 How to reach me: shrutimohanty2019@gmail.com 
 
